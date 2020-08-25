@@ -56,7 +56,7 @@ For Contribute, create a directory with the name inside of the LP folder in whic
 - Commit your changes: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-feature`.
 
-Then open the pull request for the original repository.
+After performing the previous procedures, open the pull request to the original repository.
 
 ## :memo: License
 
@@ -104,7 +104,7 @@ Para o Contribute, crie um diretório com o nome dentro da pasta LP na qual ele 
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-feature`.
 
-Depois abra o pull request para o repositorio original.
+Após realizar os procedimentos anteriores, abra o pull request para o repositorio original.
 
 ## :memo: Licença
 
