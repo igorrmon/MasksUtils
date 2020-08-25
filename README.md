@@ -1,5 +1,5 @@
 <h3 align="center">
-    <a href="#-mag-português">Português</a>
+    <a href="#mag-português">Português</a>
     
 </h3>
 <br>
