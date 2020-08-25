@@ -1,4 +1,10 @@
-<h2>Hello.</h2>
+<h1 align="center">
+    <a href="#mag-portugues">Português</a>
+    
+</h1>
+<br>
+<br>
+
 
 
 <h1 align="center">
@@ -58,23 +64,10 @@ This project is under license MIT. See the archive [LICENSE](LICENSE.md) for mor
 
 
 
-
+## :mag: Português
 <h1 align="center">
 Olá Dev's
 </h1>
-
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/igoRmon/MasksUtils">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/igoRmon/MasksUtils">
-  <a href="https://github.com/igoRmon/MasksUtils/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igoRmon/MasksUtils">
-  </a>
-  <a href="https://github.com/igoRmon/MasksUtils">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/igoRmon/MasksUtils">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
 
 <p align="center">
   <a href="#bookmark_tabs-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
