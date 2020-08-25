@@ -1,7 +1,7 @@
-<h1 align="center">
-    <a href="#mag-portugues">Português</a>
+<h3 align="center">
+    <a href="#-mag-portugues">Português</a>
     
-</h1>
+</h3>
 <br>
 <br>
 
@@ -62,7 +62,10 @@ Then open the pull request for the original repository.
 
 This project is under license MIT. See the archive [LICENSE](LICENSE.md) for more details.
 
-
+<br>
+<br>
+<br>
+<br>
 
 ## :mag: Português
 <h1 align="center">
