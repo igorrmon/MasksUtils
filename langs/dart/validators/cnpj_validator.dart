@@ -1,4 +1,13 @@
 import 'dart:math';
+/*
+  -Português:
+  Classe responsavel por validação de CNPJ(National Register of Legal Entities) 
+  e funções semelhantes e afins.
+
+  -English:
+  Class responsible for CNPJ(Cadastro Nacional de Pessoa Jurídica) validation 
+  and similar and similar functions.
+*/
 
 class CNPJValidator {
   static const List<String> blackList = [
