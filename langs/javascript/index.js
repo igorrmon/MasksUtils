@@ -4,6 +4,14 @@
 import moment from "moment";
 
 /**
+* generat color rgb randor
+*/
+export function randonRGB(){
+  const random = () => Math.floor(Math.randon() * 256);
+  return `rgb${random()},${random()},${random()}};
+}
+
+/**
  * Function to convert hex to rgba
  */
 export function hexToRgbA(hex, alpha) {
