@@ -39,6 +39,7 @@ Hello Dev's
 Technologies used:
 
 - [JavaScript](https://devdocs.io/javascript/)
+- [Python](https://www.python.org/)
 - [Flutter](https://flutter.dev/)
 - [Dart](https://pub.dev/)
 - [Emoji](https://gist.github.com/rxaviers/7360908)
